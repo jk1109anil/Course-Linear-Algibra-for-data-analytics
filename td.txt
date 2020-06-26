@@ -1,0 +1,10 @@
+# Terms are Graphs, Trees, Flowers, Forest,Program, search, bark, Algorithms and Paths in 15 documents
+1 0 1 0 0 1 0 0 0 0 1 0 0 1 1
+1 1 0 1 1 0 0 1 0 1 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 1 0 0 1 0 0
+0 0 1 1 0 0 0 1 0 0 0 1 1 0 0
+0 1 0 0 1 0 0 0 1 0 1 1 0 0 1
+1 0 1 1 1 0 1 0 0 0 0 1 0 1 0
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0
+0 1 0 0 0 1 1 0 1 0 0 0 0 1 0
+1 1 0 1 0 0 0 0 0 1 1 0 0 1 0
